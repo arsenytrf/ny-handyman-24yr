@@ -1,0 +1,4 @@
+:HL["/ny-handyman-24yr/_next/static/chunks/182y1arrb26at.css","style"]
+:HL["https://api.fontshare.com/v2/css?f[]=gambetta@400,500,600,700&display=swap","style"]
+:HL["https://api.fontshare.com/v2/css?f[]=ranade@400,500,600&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"oRfWXYx9rZsYA6pmh9DWb"}

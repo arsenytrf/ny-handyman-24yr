@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[69980,["/ny-handyman-24yr/_next/static/chunks/0vl224t0o.ukj.js","/ny-handyman-24yr/_next/static/chunks/0rh1.u0jgebnf.js","/ny-handyman-24yr/_next/static/chunks/0d3shmwh5_nmn.js","/ny-handyman-24yr/_next/static/chunks/1422n0cnw~yjd.js"],"AboutContent"]
+3:I[97367,["/ny-handyman-24yr/_next/static/chunks/0vl224t0o.ukj.js","/ny-handyman-24yr/_next/static/chunks/0rh1.u0jgebnf.js","/ny-handyman-24yr/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/ny-handyman-24yr/_next/static/chunks/1422n0cnw~yjd.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oRfWXYx9rZsYA6pmh9DWb"}
+5:null
