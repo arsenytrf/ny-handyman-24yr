@@ -1,0 +1,2 @@
+:HL["/ny-handyman-24yr/_next/static/chunks/14_e~e6oc8o~w.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"v___oj3THM7WedJ7lu43g"}
